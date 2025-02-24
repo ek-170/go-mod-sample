@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-mod-sample2/mystring"
+	"go-mod-sample/mystring"
 	"runtime"
 )
 
