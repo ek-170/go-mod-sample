@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go-mod-sample/mystring"
 	"runtime"
+
+	"github.com/ek-170/go-mod-sample/mystring"
 )
 
 func main() {
